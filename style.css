@@ -25,17 +25,17 @@ body{
   }
   .b1 {
     padding-top: 20px;
-    height: 450px;
+    height: 435px;
     width: 400px;
     margin: 20px 20px;
     background-color: white;
     border-radius: 40px;
-    
+  
    
   }
   .b2{
     padding-top: 20px;
-    height:  450px;
+    height:  435px;
     width:400px;
     margin: 20px 20px;
     background-color: white;
@@ -43,7 +43,7 @@ body{
   }
   .b3{
     padding-top: 20px;
-    height:  450px;
+    height:  435px;
     width: 400px;
     margin: 20px 20px;
     background-color: white;
@@ -54,8 +54,9 @@ body{
     background-color: blue;
     
   }
-  p{
+  p {
     font-size: 20px
+    
   
   }
   .icon{
